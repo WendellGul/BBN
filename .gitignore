@@ -1,0 +1,10 @@
+.idea
+cmake-build-debug
+cmake-build-release
+*.exe
+*.txt
+cpt
+cpt_full
+cpt0
+result
+result_full
